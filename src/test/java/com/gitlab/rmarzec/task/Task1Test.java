@@ -17,4 +17,5 @@ public class Task1Test {
         WebDriver webDriver = driverFactory.initDriver();
         webDriver.get("https://www.onet.pl/");
     }
+
 }

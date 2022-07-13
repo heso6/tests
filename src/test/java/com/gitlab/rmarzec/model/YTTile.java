@@ -1,9 +1,9 @@
 package com.gitlab.rmarzec.model;
 
 public class YTTile {
-    String title;
-    String channel;
-    String length;
+    public String title;
+    public String channel;
+    public String length;
 
     public String getTitle() {
         return title;
